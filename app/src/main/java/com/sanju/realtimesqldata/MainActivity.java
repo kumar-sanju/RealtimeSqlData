@@ -120,7 +120,7 @@ public class MainActivity extends AppCompatActivity {
         search.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Query query = database.child("user").orderByChild("tgl pendaftaran").startAt(date_minimal.getTime()).endAt(date_maximal.getTime());
+                Query query = database.child("user").orderByChild("time").startAt(date_minimal.getTime()).endAt(date_maximal.getTime());
                 query.addListenerForSingleValueEvent(new ValueEventListener() {
                     @Override
                     public void onDataChange(@NonNull DataSnapshot dataSnapshot) {

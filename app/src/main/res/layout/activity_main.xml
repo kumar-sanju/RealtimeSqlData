@@ -31,12 +31,13 @@
                     android:enabled="false"
                     android:layout_weight="1"
                     android:hint="Minimal"
+                    android:textSize="15sp"
                     />
                 <Button
                     android:id="@+id/btn_minimal"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="minDate"
+                    android:text="Date"
                     />
             </LinearLayout>
             <LinearLayout
@@ -52,12 +53,13 @@
                     android:layout_weight="1"
                     android:enabled="false"
                     android:hint="Maximal"
+                    android:textSize="15sp"
                     />
                 <Button
                     android:id="@+id/btn_maximal"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="maxDate"
+                    android:text="Date"
                     />
             </LinearLayout>
 
