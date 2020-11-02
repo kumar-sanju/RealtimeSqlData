@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "681918902348",
+    "firebase_url": "https://realtimesqldata.firebaseio.com",
+    "project_id": "realtimesqldata",
+    "storage_bucket": "realtimesqldata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681918902348:android:e8ef39a7e7783ea3df84e9",
+        "android_client_info": {
+          "package_name": "com.sanju.realtimesqldata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681918902348-nj1b5gobh9eaofj79rpovn1b309jj5dr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanju.realtimesqldata",
+            "certificate_hash": "9bacf8f5a98c6c5b058392ea1655d62124158c04"
+          }
+        },
+        {
+          "client_id": "681918902348-5pr9kq04qlmi8tr6r90vvm3uci3armp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnvAPM0RzFb5iP9isrkozgNHpn436XUg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681918902348-5pr9kq04qlmi8tr6r90vvm3uci3armp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

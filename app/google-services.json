@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "36141431325",
+    "firebase_url": "https://datarangepicker-firebase.firebaseio.com",
+    "project_id": "datarangepicker-firebase",
+    "storage_bucket": "datarangepicker-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36141431325:android:a46fc514d02f57c00b24f4",
+        "android_client_info": {
+          "package_name": "com.sanju.realtimesqldata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36141431325-69vvv1g5lmo9mng9i7cse3v8uah533r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY04qNqVy0_0KB_c361PqH1s9VuIO_7uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36141431325-69vvv1g5lmo9mng9i7cse3v8uah533r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
